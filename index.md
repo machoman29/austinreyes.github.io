@@ -1,5 +1,5 @@
 ---
-title: Austin Reyes - Resume
+title: Personal Website
 ---
 
 # Austin Reyes
