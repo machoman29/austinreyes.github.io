@@ -20,13 +20,13 @@ Cybersecurity student exploring system hardening, malware analysis, and infrastr
 
 
 - **Raspberry Pi Club & Projects (2023–Present)**
-Co-led creation of 2024 LinuxFest Jeopardy Pi, including prototyping, coordination, and final deployment.
+  - ***Co-led creation of 2024 LinuxFest Jeopardy Pi, including prototyping, coordination, and final deployment.***
 
 
-Maintained club infrastructure, including physical servers at school and Makerspace; assisted with raspberrypiclub.org site.
+  - ***Maintained club infrastructure, including physical servers at school and Makerspace; assisted with raspberrypiclub.org site.***
 
 
-Organized monthly demos and workshops; planning Blue vs. Red team server environment for hands-on cybersec practice.
+  - ***Organized monthly demos and workshops; planning Blue vs. Red team server environment for hands-on cybersec practice.***
 
 
 - **Bellingham Technical College – Infrastructure Support (2024)**
