@@ -59,7 +59,7 @@ Conducted malware static/dynamic analysis using Ghidra, x64dbg, and GDB (e.g., m
   - ***Building gamified Escape Room VMs to teach CLI usage, file ID, and escalation techniques.***
 
 
-Community Engagement & Conferences
+- **Community Engagement & Conferences**
   - ***LinuxFest NW 2024/2025: Volunteer Lead; trained A/V team and served on event committee.***
 
 
