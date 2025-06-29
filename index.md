@@ -30,7 +30,7 @@ Cybersecurity student exploring system hardening, malware analysis, and infrastr
 
 
 - **Bellingham Technical College – Infrastructure Support (2024)**
-Installed access point and segmented VLAN on Ubiquiti Layer 3 switch; helped secure lab network infrastructure.
+  - ***Installed access point and segmented VLAN on Ubiquiti Layer 3 switch; helped secure lab network infrastructure.***
 
 
   - ***Co-led KVM switch project (>$10K), created supporting documentation; ensured timely completion for student lab access.***
@@ -40,7 +40,7 @@ Installed access point and segmented VLAN on Ubiquiti Layer 3 switch; helped sec
 
 
 - **Bellingham Makerspace – IT Volunteer (2024–Present)**
-Upgraded network with PoE devices, ran CAT6, secured remote entry system by replacing unstable USB-based solution.
+  - ***Upgraded network with PoE devices, ran CAT6, secured remote entry system by replacing unstable USB-based solution.***
 
 
   - ***Managed MikroTik router including configuration, updates, and backup automation.***
@@ -50,7 +50,7 @@ Upgraded network with PoE devices, ran CAT6, secured remote entry system by repl
 
 
 - **Cybersecurity Projects & CTFs**
-Conducted malware static/dynamic analysis using Ghidra, x64dbg, and GDB (e.g., modified Solitaire binary, dissected LokiBot sample).
+  - ***Conducted malware static/dynamic analysis using Ghidra, x64dbg, and GDB (e.g., modified Solitaire binary, dissected LokiBot sample).***
 
 
   - ***Participated in HackTheBox, TryHackMe, VulnLabs; preparing for PRCCDC with rootkit and privilege escalation exercises.***
